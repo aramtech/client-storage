@@ -1,0 +1,10 @@
+{
+    "name": "client-storage",
+    "deps": {},
+    "public_repo": false,
+    "private": false,
+    "hash": "wj-48iYZteEhmOwWhppPW05jq-dCGhtgDj-3FHS_OJk",
+    "owner": "aramtech",
+    "version": "0.1.0",
+    "description": "Easy access to both encrypted & unencrypted storage"
+}
